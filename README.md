@@ -1,5 +1,6 @@
 # Hello my gorgeous friend :wave:
 
+## Welcome to my word! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 ## About 	:movie_camera:
 
 **I`am Bruno Souza, front end developer and and I'm in love with study code!** 
